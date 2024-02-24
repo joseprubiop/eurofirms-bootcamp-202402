@@ -1,3 +1,3 @@
 # eurofirms-bootcamp-202402
 
-Hello, World! 👋
+Hello, World! 
